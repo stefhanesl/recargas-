@@ -13,3 +13,6 @@ Nuestro objetivo principal es brindar una experiencia de usuario única y difere
 En Recargas+, nos enfocamos en ofrecer una plataforma totalmente digital, eliminando las complejidades y trámites burocráticos de los bancos tradicionales. Así, nuestros clientes pueden acceder a sus cuentas, realizar transferencias y otros servicios financieros de manera rápida y eficiente.
 
 En definitiva, Recargas+ es una fintech que busca revolucionar el mundo financiero, ofreciendo una experiencia de usuario completa y adaptada a las necesidades de cada cliente. Con nuestra plataforma, nuestros clientes pueden manejar sus finanzas de manera eficiente, sin importar donde se encuentren, y siempre con la tranquilidad y seguridad que necesitan.
+
+## Pagina web 
+https://recargasplus.bubbleapps.io/version-test/
